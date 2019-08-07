@@ -38,3 +38,9 @@ class name{
     }
 }
 ```
+#### Java标准输出
+>System.out.print(x);
+
+* System是一个jdk中的标准类
+* out为System类的一个属性，他是标准输出流对象
+* print()为out对象的输出方法，将x输出
