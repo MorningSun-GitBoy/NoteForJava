@@ -22,3 +22,19 @@ D:\DATA\Java\NoteForJava\01Basic\bin\io>java io.helloworld
 原因: java.lang.ClassNotFoundException: io.helloworld
 ```
 ### JAVA程序结构
+* Java的所有程序都由类组成
+* 类包含属性（变量）和方法
+* 属性只能确定值，方法才可以运行。
+* 一个.java文件可以包含多个类，但只有一个类可以是public权限，且其名称要与文件名相同
+* 在Java类的方法中main方法可以作为程序的入口，要求其访问权限为public，且为static方法
+```
+class name{
+    (class) Cname;//属性
+    public static main(){//主方法
+
+    }
+    fuction(){//方法
+
+    }
+}
+```
