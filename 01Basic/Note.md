@@ -1,4 +1,5 @@
 # JAVA笔记01
+## for "helloword.java"
 ### JAVA的运行原则
 * Java运行时需在控制台，项目位置，输入“java 包名.类名”
 * 即使打开包所在的文件夹，也不可以直接输入类名
@@ -45,3 +46,5 @@ class name{
 * System是一个jdk中的标准类
 * out为System类的一个属性，他是标准输出流对象
 * print()为out对象的输出方法，将x输出
+# Java笔记02
+## for "vierable"&"toTest.java"
