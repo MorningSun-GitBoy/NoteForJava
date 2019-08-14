@@ -47,4 +47,4 @@ class name{
 * out为System类的一个属性，他是标准输出流对象
 * print()为out对象的输出方法，将x输出
 # Java笔记02
-## for "vierable"&"toTest.java"
+## for "vierable.java"&"toTest.java"
