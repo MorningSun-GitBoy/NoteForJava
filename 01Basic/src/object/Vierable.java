@@ -1,6 +1,6 @@
 package object;
 
-public class vierable {
+public class Vierable {
 	public static int i = 10;
 	public static long l = 15034578993765l;
 	public static double d = 15.7777;
