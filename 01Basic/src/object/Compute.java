@@ -16,6 +16,18 @@ public class Compute {
 	public static void makePluse(double a,double b) {
 		plusd = a + b;
 	}
+	public static void makeMinus(int a,int b) {
+		minus = a - b;
+	}
+	public static void makeMinus(double a,double b) {
+		minusd = a - b;
+	}
+	public static void makeMuti(int a,int b) {
+		mutiple = a * b;
+	}
+	public static void makeMuti(double a,double b) {
+		mutipled = a * b;
+	}
 	public static int getPlus() {
 		return plus;
 	}
