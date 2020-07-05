@@ -28,6 +28,12 @@ public class Compute {
 	public static void makeMuti(double a,double b) {
 		mutipled = a * b;
 	}
+	public static void makeDelive(int a,int b) {
+		delive = a / b;
+	}
+	public static void makeDelive(double a,double b) {
+		delived = a / b;
+	}
 	public static int getPlus() {
 		return plus;
 	}
